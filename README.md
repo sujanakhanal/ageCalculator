@@ -42,4 +42,8 @@ Age-Calculator/
 
 Built as a beginner friendly JavaScript project to practice **date handling and DOM manipulation**.
 
+## Preview
+
+![App Screenshot](images/image.png)
+
 ### 💖 If you like this project, don't forget to star the repo!
