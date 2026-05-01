@@ -61,7 +61,7 @@
   }
 }
 
-@media (min-width: 1200px) {
+@media (max-width: 1200px) {
   .calculator {
     margin-left: auto;
     margin-right: auto;
