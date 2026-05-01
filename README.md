@@ -27,7 +27,7 @@ Age-Calculator/
 │── README.md
 ```
 
-## 💡 How It Works
+## How It Works
 
 - User selects a birth date
 - JavaScript compares it with the current date
